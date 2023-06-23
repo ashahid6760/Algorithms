@@ -3,8 +3,7 @@ This repository contains a collection of Java code examples for various coding p
 The code examples in this repository have been adapted from the Grokking series on Educative.io, which provides comprehensive guidance on understanding and implementing these 
 coding patterns.
 
-Table of Contents
-The repository is organized into different directories, each representing a specific coding pattern. The current collection includes the following coding patterns:
+ The current collection includes the following coding patterns:
 
 Sliding Window
 Two Pointers
@@ -24,6 +23,5 @@ Topological Sort
 K-ary Tree
 Dynammic Programming
 
-Each coding pattern directory contains a variety of Java code examples that demonstrate different scenarios and applications of the respective pattern.
 
 
